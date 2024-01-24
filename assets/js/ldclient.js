@@ -1,5 +1,5 @@
 // LaunchDarkly Client-side ID
-var clientID = "63320969d62496118922410f"; /* Production Environment */
+var clientID = "65b1610886a168104a999f8e"; /* Development Environment */
 
 var FeatureFlag_css_theme = "css-theme";
 
@@ -12,7 +12,7 @@ today = mm + '/' + dd + '/' + yyyy;
 
 const context = {
   kind: 'application',
-  key: 'tac-server',
+  key: 'github page',
   date: today
 };
 
